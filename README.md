@@ -8,7 +8,8 @@ Produto Viável Mínimo (MVP) criando pela nossa equipe como conclusão do Ciclo
 
 Construção de um sistema IoT de sensoriamento de torres aeropônicas, para o cultivo de plantas, em que o sistema IoT deve ser funcional, isto é, capaz de realizar a coleta, transmissão e visualização dos dados das variáveis de produção, que por sua vez são coletados pelos sensores de temperatura, de condutividade, de pH, de umidade e de nível da água. Os sensores desse sistema IoT, posteriormente foram instalados no reservatório de solução nutritiva para torres verticais, que sustenta um processo funcional de cultivo aeropônico de alfaces.
 
-<ul>Para o desenvolvimento deste projeto foram utilizadas muitas ferramentas estudas ao longo da Capacitação em IA e IoT, das quais podemos mencionar as principais ferramentas usadas:
+Para o desenvolvimento deste projeto foram utilizadas muitas ferramentas estudas ao longo da Capacitação em IA e IoT, das quais podemos mencionar as principais ferramentas usadas:
+<ul>
     <li> Microcontroladores ESP32 </li>
     <li> Arduino IDE </li>
     <li> FreeRTOS </li>
