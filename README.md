@@ -2,13 +2,13 @@
 
 Projeto realizando no âmbito dos Projetos de Interesse Nacional nas Áreas de TIC (PPI) do Ministério da Ciência, Tecnologia e Inovação (MCTI), com recursos da Lei nº 8.248, de 23 de outubro de 1991, publicado como Residência em TIC 09 (processo 01245.014045/2022-75) coordenado pela Associação para Promoção da Excelência do Software Brasileiro - Softex, através do laboratório Assert, credenciado ao Polo de Inovação do IFPB.
 
-Produto Viável Mínimo (MVP) criando pela nossa equipe como conclusão do Ciclo 3 da Capacitação em Inteligência Atificial (AI) e Internet das Coisas (IoT), com o suporte supracitado. Este repositório também é um ambiente de documentação para o projeto desenvolvido. 
+Produto Mínimo Viável (MVP) criado pela nossa equipe como conclusão do Ciclo 3 da Capacitação em Inteligência Atificial (AI) e Internet das Coisas (IoT), com o suporte supracitado. Este repositório também é um ambiente de documentação para o projeto desenvolvido. 
 
 ## Descrição do MVP
 
-Construção de um sistema IoT de sensoriamento de torres aeropônicas, para o cultivo de plantas, em que o sistema IoT deve ser funcional, isto é, capaz de realizar a coleta, transmissão e visualização dos dados das variáveis de produção, que por sua vez são coletados pelos sensores de temperatura, de condutividade, de pH, de umidade e de nível da água. Os sensores desse sistema IoT, posteriormente foram instalados no reservatório de solução nutritiva para torres verticais, que sustenta um processo funcional de cultivo aeropônico de alfaces.
+Construção de um sistema IoT de sensoriamento de torres aeropônicas, para o cultivo de plantas, em que o sistema deve ser funcional, isto é, capaz de realizar a coleta, transmissão e visualização dos dados das variáveis de produção, que por sua vez são coletados pelos sensores de temperatura, de condutividade, de pH, de umidade e de nível da água. Os sensores desse sistema IoT, posteriormente foram instalados no reservatório de solução nutritiva para torres verticais, que sustenta um processo funcional de cultivo aeropônico de alfaces.
 
-Para o desenvolvimento deste projeto foram utilizadas muitas ferramentas estudas ao longo da Capacitação em IA e IoT, das quais podemos mencionar as principais ferramentas usadas:
+Para o desenvolvimento deste projeto foram utilizadas muitas ferramentas estudadas ao longo da Capacitação em IA e IoT, das quais destacamos:
 <ul>
     <li> Microcontroladores ESP32 </li>
     <li> Arduino IDE </li>
